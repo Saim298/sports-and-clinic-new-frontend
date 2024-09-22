@@ -1,0 +1,51 @@
+/* Style for the social media icons */
+.women-social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  font-size: 24px;
+  margin: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s, color 0.3s;
+  color: white;
+}
+
+.women-social-icon:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.women-social-icon.instagram {
+  background-color: #e4405f;
+}
+
+.women-social-icon.instagram:hover {
+  background-color: #e4405f;
+}
+
+.women-social-icon.twitter {
+  background-color: #1da1f2;
+}
+
+.women-social-icon.twitter:hover {
+  background-color: #1da1f2;
+}
+
+.women-social-icon.facebook {
+  background-color: #3b5998;
+}
+
+.women-social-icon.facebook:hover {
+  background-color: #3b5998;
+}
+
+.women-social-icon.threads {
+  background-color: #4f3b68;
+}
+
+.women-social-icon.threads:hover {
+  background-color: #4f3b68;
+}
